@@ -6,7 +6,6 @@
 |--|--|--|
 | En tant qu'utlisateur | je souhaite pouvoir visualiser les différents produits | afin d'avoir les informations concernants |
 | En tant que visiteur  | je  souhaite pouvoir visualiser les différents produits | afin d'avoir les informations concernants |
-
 |--|--|--|
 | En tant qu'utlisateur | je souhaite pouvoir trier les différents produits par catégorie  | afin d'avoir les informations concernants |
 | En tant que visiteur  | je  souhaite pouvoir trier les différents produits par catégorie | afin d'avoir les informations concernants |
